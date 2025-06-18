@@ -85,7 +85,7 @@ function animatePercentage(elementId, targetPercent, duration = 4200) {
     let existingImg = card.querySelector("img");
     if (!existingImg) {
       const img = document.createElement("img");
-      img.src = "/assets/mediamarketing.png";
+      img.src = "assets/mediamarketing.png";
       img.alt = "Card Image";
       img.style.display = "block";
       img.style.width ="490px";
@@ -117,7 +117,7 @@ function animatePercentage(elementId, targetPercent, duration = 4200) {
     let existingImg = card.querySelector("img");
     if (!existingImg) {
       const img = document.createElement("img");
-      img.src = "/assets/seo.jpg";
+      img.src = "assets/seo.jpg";
       img.alt = "Card Image";
       img.style.display = "block";
       img.style.width ="490px";
@@ -149,7 +149,7 @@ function animatePercentage(elementId, targetPercent, duration = 4200) {
     let existingImg = card.querySelector("img");
     if (!existingImg) {
       const img = document.createElement("img");
-      img.src = "/assets/content.jpg";
+      img.src = "assets/content.jpg";
       img.alt = "Card Image";
       img.style.display = "block";
       img.style.width ="490px";
