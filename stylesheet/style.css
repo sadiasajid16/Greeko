@@ -390,6 +390,7 @@
     width: 100%;
     margin: 0 auto;    
     padding: 0 20px; 
+    margin-bottom: 100px;
   }
   .services-content{
     max-width: 1440px;
@@ -465,7 +466,6 @@
     background-color: rgb(12, 42, 36);
   }
   .case-main{
-    margin-top: 200px;
     padding-top: 200px;
     text-align: center;
     align-items: center;
@@ -648,6 +648,7 @@
     justify-content: space-between;
     width: 100%;
     max-width: 1440px;
+    margin-bottom: 100px;
   }
   .abt p{
     color: gray;
